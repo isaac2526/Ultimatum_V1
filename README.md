@@ -25,7 +25,8 @@ Powered by ISAAC ARINOLA TECH™
 
 </div>
 <div align="center">
-[![Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-0088cc?style=big-square&logo=telegram)](https://t.me/isaacarinolatech)
+Telegram Channel
+  (https://t.me/isaacarinolatech
 </div>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1}/count.svg" alt="isaac2526 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{𝐈𝐒𝐀𝐀𝐂 𝐀𝐑𝐈𝐍𝐎𝐋𝐀 𝐓𝐄𝐂𝐇}/count.svg" /></p>
