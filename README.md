@@ -6,9 +6,8 @@
 > **`Updated To` The Version 1.0**
 ---
 
-```
 Powered by ISAAC ARINOLA TECH™ 
-```
+
 
 --- 
 
@@ -26,7 +25,7 @@ Powered by ISAAC ARINOLA TECH™
 
 </div>
 <div align="center">
-[![Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/isaacarinolatech)
+[![Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-0088cc?style=big-square&logo=telegram)](https://t.me/isaacarinolatech)
 </div>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1}/count.svg" alt="isaac2526 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{𝐈𝐒𝐀𝐀𝐂 𝐀𝐑𝐈𝐍𝐎𝐋𝐀 𝐓𝐄𝐂𝐇}/count.svg" /></p>
@@ -47,7 +46,7 @@ Powered by ISAAC ARINOLA TECH™
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/isaac2526/Ultimatum_V1/fork"><img title="XEON-XMD" src="https://img.shields.io/badge/FORK-XEON XMD-h?color=green&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/isaac2526/Ultimatum_V1/fork"><img title="ULTIMATUM_V1" src="https://img.shields.io/badge/FORK-ULTIMATUM_V1-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
 > Get Pair Code (Session ID)
 
@@ -60,7 +59,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 </p>  
 
 
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɪsᴀᴀᴄ ᴀʀɪɴᴏʟᴀ ᴛᴇᴄʜ™
+𝐈𝐒𝐀𝐀𝐂 𝐀𝐑𝐈𝐍𝐎𝐋𝐀 𝐓𝐄𝐂𝐇™
 
 > Deploy on Heroku
 
@@ -106,8 +105,8 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 ---
 
-🏆 Credits & Contributors
-> XEON-XMD Owner 
+🏆 Credits
+> Powered by ISAAC ARINOLA TECH™ Owner 
 - [𝐈𝐒𝐀𝐀𝐂 𝐀𝐑𝐈𝐍𝐎𝐋𝐀 𝐓𝐄𝐂𝐇](https://github.com/isaac2526/Ultimatum_V1)
 - Creator and Owner Of 𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1
 
