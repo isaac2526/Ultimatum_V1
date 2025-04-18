@@ -3,11 +3,11 @@
   
 ---  
 
-> **`Updated To` The Version 5.0**
+> **`Updated To` The Version 1.0**
 ---
 
 ```
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɪsᴀᴀᴄ ᴀʀɪɴᴏʟᴀ ᴛᴇᴄʜ™ 
+Powered by ISAAC ARINOLA TECH™ 
 ```
 
 --- 
@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/isaac2526 "><img title="Developer" src="https://img.shields.io/badge/Author-ISAAC%20TARINOLA-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/isaac2526 "><img title="Developer" src="https://img.shields.io/badge/Author-ISAAC%20ARINOLA-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -26,10 +26,10 @@
 
 </div>
 <div align="center">
-[Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-FF00F8?style=big-square&logo=telegram)](https://t.me/isaacarinolatech)
+[![Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/isaacarinolatech)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1}/count.svg" alt="Black-Tappy :: Visitor's Count" old_src="https://profile-counter.glitch.me/{𝐈𝐒𝐀𝐀𝐂 𝐀𝐑𝐈𝐍𝐎𝐋𝐀 𝐓𝐄𝐂𝐇}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1}/count.svg" alt="isaac2526 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{𝐈𝐒𝐀𝐀𝐂 𝐀𝐑𝐈𝐍𝐎𝐋𝐀 𝐓𝐄𝐂𝐇}/count.svg" /></p>
 
 
 <p align="center">
