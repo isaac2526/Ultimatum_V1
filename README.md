@@ -34,7 +34,7 @@ Telegram Channel
 
 <p align="center">
 <a href="https://github.com/isaac2526/Ultimatum_V1"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=@isaac2526&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
