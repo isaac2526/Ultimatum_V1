@@ -52,9 +52,9 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 
 <p align="left">  
-<a href='https://paircase.onrender.com/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
+<a href='https://popkidxtech-session.onrender.com/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
 </p>  <p align="left">  
-<a href='https://paircase.onrender.com/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
+<a href='https://popkidxtech-session.onrender.com/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
 </p>  
 
 
